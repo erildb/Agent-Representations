@@ -2,5 +2,5 @@
 
 Only 1 networking script included.
 
-Ling to demo video:
+Link to demo video:
 https://vimeo.com/456553789
