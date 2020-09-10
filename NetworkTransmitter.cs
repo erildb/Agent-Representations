@@ -66,6 +66,7 @@ public class NetworkPlayer : NetworkBehaviour
         {
             RpcSendAvatarPositions(avatarData.headPosition, avatarData.headRotation, avatarData.leftHandPosition, avatarData.leftRotation, avatarData.rightHandPosition, avatarData.rightRotation, avatarData.isTalking, avatarData.isLeftPointing, avatarData.isRightPointing);
         }
+        
         RpcUpdatePointer(avatarData.pointerPosition);
         RpcUpdateAgentPosition(avatarData.agentPosition, avatarData.arePositionsEnabled);
 
