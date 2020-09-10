@@ -1,4 +1,4 @@
-# Avatar Representations
+# Agent Representations
 
 Only 1 networking script included.
 
